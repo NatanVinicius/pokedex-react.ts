@@ -19,13 +19,13 @@
 
 ```
     # Clone o projeto
-    $ git clone https://github.com/NatanVinicius/react-memoria.git
+    $ git clone https://github.com/NatanVinicius/pokedex-react.ts.git
 
 ```
 
 ```
     # Entre no diretório
-    $ cd react-memoria
+    $ cd pokedex
 
 ```
 
